@@ -2,7 +2,7 @@ package com.iutblagnac.r303trace;
 
 /**
  * Hello world!
- *
+ * @author Victor Veron
  */
 public class App {
 
